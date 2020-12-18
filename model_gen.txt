@@ -1,0 +1,1 @@
+mix phx.gen.live Timeline Post posts username body likes_count:integer reposts_count:integer
